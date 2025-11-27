@@ -1,4 +1,4 @@
-const API_URL = "https://script.google.com/macros/s/AKfycbzlgJA4Cz79DgBKEZVnDsIanf82XS7wTnLPRQ2TBum3yKVU0PDj2dPWyxdE9UDPmdBj/exec";
+const API_URL = "https://script.google.com/macros/s/AKfycbxepabsGH7h9cMLS2qFNH9xjrH2zrT4tB00AVhGMsgh9mi-m03ljBq5BNRVP8qYTBoJ/exec";
 
 async function loadRooms() {
   const container = document.getElementById("rooms");
